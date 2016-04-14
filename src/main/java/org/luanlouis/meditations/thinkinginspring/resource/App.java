@@ -1,4 +1,4 @@
-package org.luanlouis.meditations;
+package org.luanlouis.meditations.thinkinginspring.resource;
 
 /**
  * Hello world!

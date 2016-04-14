@@ -1,4 +1,4 @@
-package org.luanlouis.meditations;
+package org.luanlouis.meditations.thinkinginspring.resource;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
