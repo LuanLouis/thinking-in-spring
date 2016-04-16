@@ -1,6 +1,7 @@
 package org.luanlouis.meditations.thinkinginspring.aop;
 
 /**
+ * 售票服务
  * Created by louis on 2016/4/14.
  */
 public interface TicketService {
@@ -13,6 +14,4 @@ public interface TicketService {
 
     //退票
     public void withdraw();
-
-
 }
